@@ -130,8 +130,10 @@ const PROGRAM = [
   { time: "4:15–4:40", item: "Hybrid Exoskeleton Strategies at the VA", speakers: ["Sandra Hnat"] },
   { time: "4:40–5:05", item: "Data-Driven MPC for FES-Driven Reaching", speakers: ["Derek Wolf"] },
   { time: "5:05–5:25", item: "FES-Augmented Robotic Stretching for Spasticity", speakers: ["Nicholas A. Rubino"] },
-  { time: "5:25–5:30", item: "Simple Control Systems Enable Enhanced Options for Mobility and Exercise after Paralysis", speakers: ["Ronald Triolo"] },
-];
+  { time: "5:25–5:40", item: "Simple Control Systems Enable Enhanced Options for Mobility and Exercise after Paralysis", speakers: ["Ronald Triolo"] },
+  { time: "5:40-5:55", item: "Ultrasound-informed Optimal Control of Hybrid Exoskeleton", speakers: ["Nitin Sharma"]},
+  { time: "5:55-6:00",item: "Closing remarks", speakers: ["Mayank Singh", "Nitin Sharma"]},
+]
 
 // =====================
 // UI Helpers
