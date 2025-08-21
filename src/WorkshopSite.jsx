@@ -19,7 +19,7 @@ const WORKSHOP = {
   ],
   contactEmail: "msingh25@ncsu.edu",
   abstract:
-    "The central theme of this workshop is Functional Electrical Stimulation (FES) control for dynamic movement, therapy, and rehabilitation—directly aligned with MECC 2025’s focus on modeling, estimation, and control of dynamic systems. We will survey challenges such as nonlinear, time-varying neuromuscular dynamics; muscle fatigue; inter- and intra-subject variability; and inherent time delays (e.g., electromechanical delay). Presentations highlight adaptive/learning control, MPC, robust and intelligent control, and sensing interfaces (ultrasound, EMG, BCI) that enable personalized, clinically viable FES.",
+    "The central theme of this workshop is Functional Electrical Stimulation (FES) control for dynamic movement, therapy, and rehabilitation—directly. The workshop discusses FES-induced challenges such as nonlinear, time-varying neuromuscular dynamics; muscle fatigue; inter- and intra-subject variability. Presentations highlight adaptive/learning control, Model Predictive Control for FES, and sensing interfaces (ultrasound, EMG, Implanted) that enable personalized, and clinically viable methods for FES-based therapy.",
   topics: [
     "Overview of FES for assistive and rehabilitative movement (SCI and stroke).",
     "Core challenges: nonlinear, time-varying responses; fatigue; variability; delays.",
@@ -36,7 +36,7 @@ const SPEAKERS = [
     title:
       "Ultrasound-Informed Closed-loop Koopman Model Predictive Control for Drop-Foot Correction",
     abstract:
-      "We present an ultrasound-informed closed-loop control framework for FES-actuated ankle dorsiflexion to correct drop foot. Ultrasound (US), robust to stimulation artifacts, provides real-time metrics (muscle thickness, echogenicity, strain) to track fatigue. A Koopman-operator-driven MPC integrates US-derived biomarkers to adapt FES parameters to physiological state and fatigue dynamics. Experimentally validated results are planned.",
+      "TBD.",
   },
   {
     name: "Victor Duenas",
