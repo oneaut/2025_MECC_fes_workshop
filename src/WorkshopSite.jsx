@@ -13,8 +13,8 @@ const WORKSHOP = {
   location: "TBD",
   date_display: "Oct 5",
   organizers: [
-    { name: "Mayank Singh", org: "NC State University" },
-    { name: "Nitin Sharma", org: "NC State University" },
+    { name: "Mayank Singh", org: "North Carolina State University" },
+    { name: "Nitin Sharma", org: "North Carolina State University" },
     { name: "Victor Duenas", org: "Syracuse University" },
   ],
   contactEmail: "msingh25@ncsu.edu",
